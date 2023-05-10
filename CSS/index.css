@@ -21,6 +21,7 @@ body{
     border-radius: 15px;
     overflow: hidden;
     margin: 1rem;
+    margin-top: 10px;
 }
 .wrapper img{
     width: 100%;
